@@ -5,8 +5,8 @@ Fast Lending, a peer to peer lending services company wants to use machine learn
 The purpose of this project is to assist the lead Data Scientist to implement and evaluate several machine learning models or algorithms to predict credit risk. The credit card credit dataset from LendingClub, a peer-to-peer lending services company will be used to implement the following: 
 - Oversample the data using the RandomOverSampler and SMOTE algorithms
 - Undersample the data using the ClusterCentroids algorithm
-- use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. 
-- compare BalancedRandomForestClassifier and EasyEnsembleClassifier machine learning models that reduce bias to predict credit risk
+- Use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. 
+- Compare BalancedRandomForestClassifier and EasyEnsembleClassifier machine learning models that reduce bias to predict credit risk
 
 ## Results
 
