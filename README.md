@@ -15,13 +15,13 @@ The purpose of this project is to assist the lead Data Scientist to implement an
 - Precision: 0.01
 - Recall scores: 0.69(high risk), 0.61(low risk)
 
-> Balanced accuracy score
+Balanced accuracy score
 > ![Native_Random_Oversampling_Result1](./Resources/Native_Random_Oversampling_Result1.png)
 
-> Confusion matrix
+Confusion matrix
 > ![Native_Random_Oversampling_Result2](./Resources/Native_Random_Oversampling_Result2.png)
 
-> Imbalanced classification report
+Imbalanced classification report
 > ![Native_Random_Oversampling_Result3](./Resources/Native_Random_Oversampling_Result3.png)
 
 ### SMOTE Oversampling
@@ -29,13 +29,13 @@ The purpose of this project is to assist the lead Data Scientist to implement an
 - Precision: 0.01
 - Recall scores: 0.63(high risk), 0.69(low risk)
 
-> Balanced accuracy score
+Balanced accuracy score
 > ![SMOTE_Oversampling_Result1](./Resources/SMOTE_Oversampling_Result1.png)
 
-> Confusion matrix
+Confusion matrix
 > ![SMOTE_Oversampling_Result2](./Resources/SMOTE_Oversampling_Result2.png)
 
-> Imbalanced classification report
+Imbalanced classification report
 > ![SMOTE_Oversampling_Result3](./Resources/SMOTE_Oversampling_Result3.png)
 
 ### Undersampling
@@ -43,13 +43,13 @@ The purpose of this project is to assist the lead Data Scientist to implement an
 - Precision: 0.01
 - Recall scores: 0.67(high risk), 0.42(low risk)
 
-> Balanced accuracy score
+Balanced accuracy score
 > ![Undersampling_Result1](./Resources/Undersampling_Result1.png)
 
-> Confusion matrix
+Confusion matrix
 > ![Undersampling_Result2](./Resources/Undersampling_Result2.png)
 
-> Imbalanced classification report
+Imbalanced classification report
 > ![Undersampling_Result3](./Resources/Undersampling_Result3.png)
 
 ### Combination (Over and Under) Sampling
@@ -57,13 +57,13 @@ The purpose of this project is to assist the lead Data Scientist to implement an
 - Precision: 0.01
 - Recall scores: 0.72(high risk), 0.57(low risk)
 
-> Balanced accuracy score
+Balanced accuracy score
 > ![Combination_sampling_Result1](./Resources/Combination_sampling_Result1.png)
 
-> Confusion matrix
+Confusion matrix
 > ![Combination_sampling_Result2](./Resources/Combination_sampling_Result2.png)
 
-> Imbalanced classification report
+Imbalanced classification report
 > ![Combination_sampling_Result3](./Resources/Combination_sampling_Result3.png)
 
 ### Balanced Random Forest Classifier
@@ -71,13 +71,13 @@ The purpose of this project is to assist the lead Data Scientist to implement an
 - Precision: 0.03
 - Recall scores: 0.70(high risk), 0.87(low risk)
 
-> Balanced accuracy score
+Balanced accuracy score
 > ![Balanced_Random_Forest_Classifier_Result1](./Resources/Balanced_Random_Forest_Classifier_Result1.png)
 
-> Confusion matrix
+Confusion matrix
 > ![Balanced_Random_Forest_Classifier_Result2](./Resources/Balanced_Random_Forest_Classifier_Result2.png)
 
-> Imbalanced classification report
+Imbalanced classification report
 > ![Balanced_Random_Forest_Classifier_Result3](./Resources/Balanced_Random_Forest_Classifier_Result3.png)
 
 ### Easy Ensemble AdaBoost Classifier
@@ -85,13 +85,13 @@ The purpose of this project is to assist the lead Data Scientist to implement an
 - Precision: 0.09
 - Recall scores: 0.92(high risk), 0.94(low risk)
 
-> Balanced accuracy score
+Balanced accuracy score
 > ![Easy_Ensemble_AdaBoost_Classifier_Result1](./Resources/Easy_Ensemble_AdaBoost_Classifier_Result1.png)
 
-> Confusion matrix
+Confusion matrix
 > ![Easy_Ensemble_AdaBoost_Classifier_Result2](./Resources/Easy_Ensemble_AdaBoost_Classifier_Result2.png)
 
-> Imbalanced classification report
+Imbalanced classification report
 > ![Easy_Ensemble_AdaBoost_Classifier_Result3](./Resources/Easy_Ensemble_AdaBoost_Classifier_Result3.png)
 
 
